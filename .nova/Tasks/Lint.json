@@ -1,0 +1,9 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "npm run lint"
+    }
+  },
+  "identifier" : "31654C8D-4FB8-42D1-8D90-B79983084EC5"
+}
