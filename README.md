@@ -12,3 +12,4 @@ TODO:
 - React Testing Library
 - PostCSS
 - Base & Util Styles
+- Netlify Config?
